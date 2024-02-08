@@ -1,0 +1,13 @@
+{
+    "website_url": "https://api.fda.gov/device/event.json?",
+    "search": "search=",
+    "productCodes": [
+        "BXY",
+        "BYM",
+        "BYX",
+        "CAX",
+        "CCN",
+        "CAN",
+        "ECX"
+    ]
+}
